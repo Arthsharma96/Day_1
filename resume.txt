@@ -11,13 +11,6 @@ Education:
 School_name: Kendriya Vidhayalaya
 College_name: IPS Academy
 
-Experience:
-
-[Job Title], [Company/Organization], [Dates]
-[Bullet points highlighting key responsibilities and achievements]
-[Job Title], [Company/Organization], [Dates]
-[Bullet points highlighting key responsibilities and achievements]
-Add more experiences if applicable
 
 Skills:
 
