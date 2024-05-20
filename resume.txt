@@ -1,0 +1,41 @@
+                   Resume
+
+Arth sharma
+
+Email: arth908070@gmail.com
+
+Linkedin_Url:https://www.linkedin.com/in/arth-sharma-941490256/
+
+Education:
+
+School_name: Kendriya Vidhayalaya
+College_name: IPS Academy
+
+Experience:
+
+[Job Title], [Company/Organization], [Dates]
+[Bullet points highlighting key responsibilities and achievements]
+[Job Title], [Company/Organization], [Dates]
+[Bullet points highlighting key responsibilities and achievements]
+Add more experiences if applicable
+
+Skills:
+
+[HTML & CSS]: [Intermidiate]
+[Flask]: [Beginner]
+[Django]: [Beginner]
+[Javascript]: [Beginner]
+[Graphic Designing]: [Intermidiate]
+[Language: English , Hindi]: [Fluent]
+
+Projects:
+
+[Farmer Weather app], [Using flask], [Link:https://github.com/Nikhil-Kumar-Dwivedi/Flask_weather_app]
+[Manga reading Website], [Using Flask], [Link:https://github.com/gilgamesh7804/manga]
+
+
+Interests:
+
+0> Guitar enthusiast
+1> Coding
+2> Football enthusiast 
