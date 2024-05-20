@@ -8,7 +8,7 @@ Linkedin_Url:https://www.linkedin.com/in/arth-sharma-941490256/
 
 Education:
 
-School_name: Kendriya Vidhayalaya
+
 College_name: IPS Academy
 
 
